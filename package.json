@@ -1,0 +1,37 @@
+{
+  "name": "gnirts-loader",
+  "version": "1.0.0",
+  "title": "gnirts-loader",
+  "description": "gnirts loader module for webpack - Obfuscate string literals in JavaScript code.",
+  "keywords": [
+    "webpack",
+    "loader",
+    "mangle",
+    "obfuscate",
+    "obfuscator",
+    "obfuscation",
+    "string",
+    "literal",
+    "security",
+    "password",
+    "secret"
+  ],
+  "peerDependencies": {
+    "gnirts": ">=0.4.0"
+  },
+  "devDependencies": {
+    "gnirts": "^0.4.0",
+    "webpack": "^2.2.1"
+  },
+  "homepage": "https://github.com/anseki/gnirts-loader",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anseki/gnirts-loader.git"
+  },
+  "bugs": "https://github.com/anseki/gnirts-loader/issues",
+  "license": "MIT",
+  "author": {
+    "name": "anseki",
+    "url": "https://github.com/anseki"
+  }
+}
