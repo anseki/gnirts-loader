@@ -17,11 +17,11 @@
     "secret"
   ],
   "peerDependencies": {
-    "gnirts": ">=0.4.0"
+    "gnirts": ">=1.1.0"
   },
   "devDependencies": {
-    "gnirts": "^0.4.0",
-    "webpack": "^2.2.1"
+    "gnirts": "^1.1.0",
+    "webpack": "^2.3.2"
   },
   "homepage": "https://github.com/anseki/gnirts-loader",
   "repository": {
