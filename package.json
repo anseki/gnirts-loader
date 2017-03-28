@@ -1,6 +1,6 @@
 {
   "name": "gnirts-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "title": "gnirts-loader",
   "description": "gnirts loader module for webpack - Obfuscate string literals in JavaScript code.",
   "keywords": [
@@ -17,10 +17,10 @@
     "secret"
   ],
   "peerDependencies": {
-    "gnirts": ">=1.1.0"
+    "gnirts": ">=1.1.1"
   },
   "devDependencies": {
-    "gnirts": "^1.1.0",
+    "gnirts": "^1.1.1",
     "webpack": "^2.3.2"
   },
   "homepage": "https://github.com/anseki/gnirts-loader",
