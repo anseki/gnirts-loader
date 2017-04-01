@@ -1,6 +1,6 @@
 {
   "name": "gnirts-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "title": "gnirts-loader",
   "description": "gnirts loader module for webpack - Obfuscate string literals in JavaScript code.",
   "keywords": [
