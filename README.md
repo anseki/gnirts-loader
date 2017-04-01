@@ -18,7 +18,10 @@ npm install --save-dev gnirts-loader gnirts
 
 ## Usage
 
-[Documentation: Loaders](https://webpack.js.org/concepts/loaders/)
+Documentation:
+
+- [Loaders](https://webpack.js.org/concepts/loaders/)
+- [Using loaders](http://webpack.github.io/docs/using-loaders.html) (for webpack v1)
 
 For example:
 
