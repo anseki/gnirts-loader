@@ -16,6 +16,10 @@
     "password",
     "secret"
   ],
+  "files": [
+    "index.js",
+    "LICENSE-MIT"
+  ],
   "peerDependencies": {
     "gnirts": ">=1.1.3"
   },
