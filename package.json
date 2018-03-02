@@ -17,8 +17,7 @@
     "secret"
   ],
   "files": [
-    "index.js",
-    "LICENSE-MIT"
+    "index.js"
   ],
   "peerDependencies": {
     "gnirts": ">=1.1.3"
