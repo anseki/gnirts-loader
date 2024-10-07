@@ -21,7 +21,7 @@
     "lib/*.js"
   ],
   "peerDependencies": {
-    "gnirts": "~1.1.7"
+    "gnirts": "^1.1.8"
   },
   "devDependencies": {
     "chai": "^4.3.4",
